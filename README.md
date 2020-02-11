@@ -1,0 +1,2 @@
+# Using-spark-and-Map-reduce-for-big-data
+The core data structure in **Spark** is a resilient *distributed data set (RDD)*. As the name suggests, an RDD is Spark's representation of a data set that's distributed across the RAM, or memory, of a cluster of many machines. An RDD object is essentially a collection of elements we can use to hold lists of tuples, dictionaries, lists, etc. Similar to a pandas DataFrame, we can load a data set into an RDD, and then run any of the methods accesible to that object.
